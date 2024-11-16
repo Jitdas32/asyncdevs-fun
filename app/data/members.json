@@ -46,4 +46,15 @@
       "bio": "Passionate coding student exploring the art of problem-solving through code and creativity."
     }
   ]
+},
+{
+      "id": 6,
+      "name": "Jit Das",
+      "role": "Fresher",
+      "avatar": 
+      "github": "Jitdas32",
+      "skills": ["HTML", "C", "C++"],
+      "bio": 
+    }
+    }
 }
